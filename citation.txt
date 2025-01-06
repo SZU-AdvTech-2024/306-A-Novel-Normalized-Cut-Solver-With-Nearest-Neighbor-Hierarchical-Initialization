@@ -1,8 +1,6 @@
 @article{REPO306,
     author = "Nie, Feiping and Lu, Jitao and Wu, Danyang and Wang, Rong and Li, Xuelong",
-    doi = "10.1109/TPAMI.2023.3279394",
     journal = "IEEE Transactions on Pattern Analysis and Machine Intelligence",
-    keywords = "Time complexity;Laplace equations;Computational modeling;Benchmark testing;Optics;Industries;Eigenvalues and eigenfunctions;Coordinate descent method;clustering;graph cut",
     number = "1",
     pages = "659-666",
     title = "{A Novel Normalized-Cut Solver With Nearest Neighbor Hierarchical Initialization}",
